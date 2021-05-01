@@ -7,6 +7,7 @@ I'm Syahrun Facrezy, a Front End Developer and IT Support. I spend my time study
 
 
 - 👨‍🎓 I am a student at West Papua university
+- 💻 I have participated in a Shipper Id hackathon competition sponsored by AWS Indonesia 
 - 🌱 I'm learning React and Node JS
 - 👯 I want to collaborate on a project
 - 📫 How to contact me: syhrnfcrzy@gmail.com
