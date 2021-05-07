@@ -22,7 +22,7 @@ I'm Syahrun Facrezy, a Front End Developer and IT Support. I spend my time study
 
 
 ##### Tools Used
-[![VS Code Badge](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/) [![Google Colab Badge](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&labelColor=black&logo=google-colab&logoColor=F9AB00)](https://colab.research.google.com) [![Android Studio Badge](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&labelColor=black&logo=Android-Studio&logoColor=3DDC84)](https://developer.android.com/studio/) 
+[![VS Code Badge](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&labelColor=black&logo=visual-studio-code&logoColor=007ACC)](https://code.visualstudio.com/) [![Google Colab Badge](https://img.shields.io/badge/-Google_Colab-F9AB00?style=for-the-badge&labelColor=black&logo=google-colab&logoColor=F9AB00)](https://colab.research.google.com) [![Android Studio Badge](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&labelColor=black&logo=Android-Studio&logoColor=3DDC84)](https://developer.android.com/studio/) [![Git Badge](https://img.shields.io/badge/-git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](https://developer.android.com/studio/) 
 <!--
 **syhrnfcrzy/syhrnfcrzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
